@@ -12,3 +12,5 @@
 - Телеграм: @CHIZci
 - Телефон: +7 (999)-222-33-11
 - Почта: syperdeveloper@java.com
+
+theme: jekyll-theme-dinky
